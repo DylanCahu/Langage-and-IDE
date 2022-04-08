@@ -1,15 +1,17 @@
-LET A 1B3
- 
-ADD 12 10 B
+Begin
+	LET N 10
 
-ADD 52 14 55
+	LET S 0
 
-LET G 150
+	LET I 1
 
-LET LET 5
+	WHILE I <= N
+		Begin
+			ADD I S S
+			INC I
+		End
+		
 
-ADD B G T
+	WRITE S
 
-AdD A B C
-
-ADD COUCOU COUCOU COUCOU 
+End
