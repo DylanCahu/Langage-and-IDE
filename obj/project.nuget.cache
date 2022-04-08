@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h4SwYNDvd0Os1EmScvlH2/MIpeZ+aYlY+ItIclYmycBBoHErcztX/m2zUIrb+lUyC/oEmdVXkD7L8uL6IMnuMg==",
+  "dgSpecHash": "p4ECMNU8zLAhiSyXiYH4XpiPdht+WafV4DUecCGZLsp6PjRuZ9xh3o9jQBM16czOj+oAtUnlAV3FhmiYSPTB/Q==",
   "success": true,
-  "projectFilePath": "P:\\SIO2\\Slam\\C#\\c-sharp\\ExtraireCodeFichier\\ExtraireCodeFichier.csproj",
+  "projectFilePath": "P:\\SIO2\\Slam\\C#\\c-sharp\\readfile\\readfile.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ExtraireCodeFichier")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("readfile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("ExtraireCodeFichier")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ExtraireCodeFichier")]
+[assembly: System.Reflection.AssemblyProductAttribute("readfile")]
+[assembly: System.Reflection.AssemblyTitleAttribute("readfile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.

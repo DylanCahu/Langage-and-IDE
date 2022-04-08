@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\SIO2\\Slam\\C#\\c-sharp\\ExtraireCodeFichier\\ExtraireCodeFichier.csproj",
-      "projectName": "ExtraireCodeFichier",
-      "projectPath": "P:\\SIO2\\Slam\\C#\\c-sharp\\ExtraireCodeFichier\\ExtraireCodeFichier.csproj",
+      "projectUniqueName": "P:\\SIO2\\Slam\\C#\\c-sharp\\readfile\\readfile.csproj",
+      "projectName": "readfile",
+      "projectPath": "P:\\SIO2\\Slam\\C#\\c-sharp\\readfile\\readfile.csproj",
       "packagesPath": "C:\\Users\\cahudyl\\.nuget\\packages\\",
-      "outputPath": "P:\\SIO2\\Slam\\C#\\c-sharp\\ExtraireCodeFichier\\obj\\",
+      "outputPath": "P:\\SIO2\\Slam\\C#\\c-sharp\\readfile\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cahudyl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

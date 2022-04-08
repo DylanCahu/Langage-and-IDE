@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "ExtraireCodeFichier/1.0.0": {
+      "readfile/1.0.0": {
         "runtime": {
-          "ExtraireCodeFichier.dll": {}
+          "readfile.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ExtraireCodeFichier/1.0.0": {
+    "readfile/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

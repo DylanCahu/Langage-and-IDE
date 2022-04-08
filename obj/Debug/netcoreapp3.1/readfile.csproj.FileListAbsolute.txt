@@ -1,0 +1,14 @@
+P:\SIO2\Slam\C#\c-sharp\readfile\bin\Debug\netcoreapp3.1\readfile.exe
+P:\SIO2\Slam\C#\c-sharp\readfile\bin\Debug\netcoreapp3.1\readfile.deps.json
+P:\SIO2\Slam\C#\c-sharp\readfile\bin\Debug\netcoreapp3.1\readfile.runtimeconfig.json
+P:\SIO2\Slam\C#\c-sharp\readfile\bin\Debug\netcoreapp3.1\readfile.runtimeconfig.dev.json
+P:\SIO2\Slam\C#\c-sharp\readfile\bin\Debug\netcoreapp3.1\readfile.dll
+P:\SIO2\Slam\C#\c-sharp\readfile\bin\Debug\netcoreapp3.1\readfile.pdb
+P:\SIO2\Slam\C#\c-sharp\readfile\obj\Debug\netcoreapp3.1\readfile.csproj.AssemblyReference.cache
+P:\SIO2\Slam\C#\c-sharp\readfile\obj\Debug\netcoreapp3.1\readfile.GeneratedMSBuildEditorConfig.editorconfig
+P:\SIO2\Slam\C#\c-sharp\readfile\obj\Debug\netcoreapp3.1\readfile.AssemblyInfoInputs.cache
+P:\SIO2\Slam\C#\c-sharp\readfile\obj\Debug\netcoreapp3.1\readfile.AssemblyInfo.cs
+P:\SIO2\Slam\C#\c-sharp\readfile\obj\Debug\netcoreapp3.1\readfile.csproj.CoreCompileInputs.cache
+P:\SIO2\Slam\C#\c-sharp\readfile\obj\Debug\netcoreapp3.1\readfile.dll
+P:\SIO2\Slam\C#\c-sharp\readfile\obj\Debug\netcoreapp3.1\readfile.pdb
+P:\SIO2\Slam\C#\c-sharp\readfile\obj\Debug\netcoreapp3.1\readfile.genruntimeconfig.cache
