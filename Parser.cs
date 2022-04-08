@@ -2,10 +2,12 @@
 using System.IO;
 using System.Globalization;
 
-namespace FichierTexte
+
+namespace CodeFicherGraphique
 {
     //Classe abstraite servant de bibliothèque de méthodes. Abstract empêche de créer un objet
-    abstract class Parser { 
+    abstract class Parser
+    {
 
         static public Bloc leProgramme; //le programme à construire
         static public Bloc leBlocEnCours; //le programme en cours d'execution
@@ -216,7 +218,7 @@ namespace FichierTexte
             }
             else Console.Write("IF1 =  " + IF1 + ", ");
             //---------------------------------------------------------------
-            int CompaIFInt=0;
+            int CompaIFInt = 0;
             string CompaIF = ExtraireToken();
             switch (CompaIF)
             {
@@ -267,7 +269,7 @@ namespace FichierTexte
         {
 
             string WHILE1 = ExtraireToken();
-            if(!estVariable(WHILE1) && !estNombre(WHILE1)) Erreur("le paramètre 1 doit etre une variable ou un nombre : " + WHILE1 + ". ");
+            if (!estVariable(WHILE1) && !estNombre(WHILE1)) Erreur("le paramètre 1 doit etre une variable ou un nombre : " + WHILE1 + ". ");
             else if (estNombre(WHILE1))
             {
                 int number1 = Int32.Parse(WHILE1, NumberStyles.AllowThousands);
@@ -275,7 +277,7 @@ namespace FichierTexte
             }
             else Console.Write("WHILE1 =  " + WHILE1 + ", ");
             //---------------------------------------------------------------
-            int CompaWHILEInt =0;
+            int CompaWHILEInt = 0;
             string CompaWHILE = ExtraireToken();
             //estCompa(CompaWHILE);
             switch (CompaWHILE)
@@ -319,7 +321,7 @@ namespace FichierTexte
             else Console.Write("WHILE2 =  " + WHILE2 + ", ");
             //---------------------------------------------------------------
             string reste = ExtraireToken();
-            if(reste != "") Erreur("WHILE ne prend que 3 paramètres : " + reste);
+            if (reste != "") Erreur("WHILE ne prend que 3 paramètres : " + reste);
             //---------------------------------------------------------------
             //lire le bloc du WHILE
             Bloc blocWHILE = LireBloc();
@@ -402,16 +404,16 @@ namespace FichierTexte
         }
         static public void Compiler(string chemin)
         {//compiler le fichier texte en arbre de programme
-           // String line;
+         // String line;
             leProgramme = new Bloc();
 
             try
             {
                 //Pass the file path and file name to the StreamReader constructor
-               FichierEntree = new StreamReader(chemin);
+                FichierEntree = new StreamReader(chemin);
 
                 //Lecture du bloc 
-                leProgramme=LireBloc();
+                leProgramme = LireBloc();
 
                 /*
                 //Read the first line of text
@@ -452,7 +454,7 @@ namespace FichierTexte
             {
                 case "//":
                     //Je te fais un dessin ?
-                    
+
                     break;
 
                 case "LET":
@@ -491,7 +493,7 @@ namespace FichierTexte
                     traiterIF(LigneLecture);
 
                     break;
-                
+
                 case "WHILE":
 
                     traiterWHILE(LigneLecture);
@@ -525,7 +527,7 @@ namespace FichierTexte
             //lire et vérifier le Begin puis créer un liste d'instruction et la renvoyer
             Bloc ancienBloc = leBlocEnCours;
             leBlocEnCours = new Bloc();
-            
+
             lireLigne();
             string token1 = ExtraireToken();
             if (token1 != "Begin") Erreur("Begin manquant");
@@ -548,7 +550,7 @@ namespace FichierTexte
         static void lireLigne()
         {
             PosLecture = 0;
-            LigneLecture= FichierEntree.ReadLine();
+            LigneLecture = FichierEntree.ReadLine();
             //return FichierEntree.ReadLine();
         }
     }

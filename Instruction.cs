@@ -1,7 +1,7 @@
 ﻿using System;
 //using System.Collections.Generic;
 
-namespace FichierTexte
+namespace CodeFicherGraphique
 {
 
 	class Variables
@@ -24,7 +24,7 @@ namespace FichierTexte
 		{
 			for (int i = 0; i < 26; i++)
 			{
-				Console.Write(tabVar[i] + "  ");
+				Program.form1.writeln2(tabVar[i] + "  ");
 			}
 			Console.WriteLine();
 		}
@@ -123,7 +123,7 @@ namespace FichierTexte
 
 		public override void afficher()
 		{
-			Console.WriteLine("Je suis un LET, je range " + this.valeur + " dans " +this.variable1);
+			Program.form1.writeln2("Je suis un LET, je range " + this.valeur + " dans " +this.variable1);
 		}
 
 		public override void executer()
@@ -148,7 +148,7 @@ namespace FichierTexte
 		}
 		public override void afficher()
 		{
-			Console.WriteLine("Je suis un ADD, j'additionne " + this.variable1 + " et " +this.variable2+" dans "+ this.variable3);
+			Program.form1.writeln2("Je suis un ADD, j'additionne " + this.variable1 + " et " +this.variable2+" dans "+ this.variable3);
 		}
 		public override void executer()
 		{
@@ -175,7 +175,7 @@ namespace FichierTexte
 		}
 		public override void afficher()
 		{
-			Console.WriteLine("Je suis un MOD, je modulo " + this.variable1 + " et " + this.variable2 + " dans " + this.variable3);
+			Program.form1.writeln2("Je suis un MOD, je modulo " + this.variable1 + " et " + this.variable2 + " dans " + this.variable3);
 		}
 		public override void executer()
 		{
@@ -202,7 +202,7 @@ namespace FichierTexte
 		}
 		public override void afficher()
 		{
-			Console.WriteLine("Je suis un DIV, je divise " + this.variable1 + " et " + this.variable2 + " dans " + this.variable3);
+			Program.form1.writeln2("Je suis un DIV, je divise " + this.variable1 + " et " + this.variable2 + " dans " + this.variable3);
 		}
 		public override void executer()
 		{
@@ -224,7 +224,7 @@ namespace FichierTexte
 		}
 		public override void afficher()
 		{
-			Console.WriteLine("Je suis un INC, j'incrémente " + this.variable1 + " à 1");
+			Program.form1.writeln2("Je suis un INC, j'incrémente " + this.variable1 + " à 1");
 		}
 		public override void executer()
 		{
@@ -243,12 +243,12 @@ namespace FichierTexte
 		}
 		public override void afficher()
 		{
-			Console.WriteLine("Je suis un WRITE qui montre : "+this.variable1);
+			Program.form1.writeln2("Je suis un WRITE qui montre : "+this.variable1);
 		}
 		public override void executer()
 		{
 			int valeur = Program.mesVariables.getVariable(this.variable1);
-			Console.WriteLine("WRITE: valeur = "+ valeur);
+			Program.form1.writeln2(" "+valeur);
 		}
 	}
 
@@ -266,7 +266,7 @@ namespace FichierTexte
 		}
 		public override void afficher()
 		{
-					Console.WriteLine("Je suis un IF qui vérifie : " + this.variable1+ " "+ this.comparateur + " "+this.variable2);
+			Program.form1.writeln2("Je suis un IF qui vérifie : " + this.variable1+ " "+ this.comparateur + " "+this.variable2);
 			blocAlors.afficher();
 		}
 
@@ -350,7 +350,7 @@ namespace FichierTexte
 					CompaString = "<=";
 					break;
 			}
-			Console.WriteLine("Je suis un WHILE qui vérifie : " + this.variable1 + " " + this.CompaString + " " + this.variable2);
+			Program.form1.writeln2("Je suis un WHILE qui vérifie : " + this.variable1 + " " + this.CompaString + " " + this.variable2);
 			blocAlors.afficher();
 		}
 
