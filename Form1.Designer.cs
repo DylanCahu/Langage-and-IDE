@@ -44,6 +44,7 @@ namespace CodeFicherGraphique
             // 
             // richTextBox1
             // 
+            this.richTextBox1.AcceptsTab = true;
             this.richTextBox1.Location = new System.Drawing.Point(13, 65);
             this.richTextBox1.Name = "richTextBox1";
             this.richTextBox1.Size = new System.Drawing.Size(315, 384);
@@ -89,6 +90,7 @@ namespace CodeFicherGraphique
             this.button4.TabIndex = 4;
             this.button4.Text = "Help";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // richTextBox3
             // 

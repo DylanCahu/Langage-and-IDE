@@ -84,6 +84,19 @@ namespace CodeFicherGraphique
             
 
         }
+        private bool help = false;
+        private void button4_Click(object sender, EventArgs e)
+        {//help
+            if (help == false)
+            {
+                richTextBox3.LoadFile(Directory.GetCurrentDirectory() + "\\..\\help.txt", RichTextBoxStreamType.PlainText);
+            }
+            else
+            {
+                
+            }
+
+        }
 
         private void saveFileDialog1_FileOk(object sender, CancelEventArgs e)
         {
@@ -135,5 +148,6 @@ namespace CodeFicherGraphique
         {
 
         }
+
     }
 }
