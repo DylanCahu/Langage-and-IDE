@@ -1,0 +1,14 @@
+P:\SIO2\Slam\C#\c-sharp\ExtraireCodeFichier2\bin\Debug\netcoreapp3.1\ExtraireCodeFichier2.exe
+P:\SIO2\Slam\C#\c-sharp\ExtraireCodeFichier2\bin\Debug\netcoreapp3.1\ExtraireCodeFichier2.deps.json
+P:\SIO2\Slam\C#\c-sharp\ExtraireCodeFichier2\bin\Debug\netcoreapp3.1\ExtraireCodeFichier2.runtimeconfig.json
+P:\SIO2\Slam\C#\c-sharp\ExtraireCodeFichier2\bin\Debug\netcoreapp3.1\ExtraireCodeFichier2.runtimeconfig.dev.json
+P:\SIO2\Slam\C#\c-sharp\ExtraireCodeFichier2\bin\Debug\netcoreapp3.1\ExtraireCodeFichier2.dll
+P:\SIO2\Slam\C#\c-sharp\ExtraireCodeFichier2\bin\Debug\netcoreapp3.1\ExtraireCodeFichier2.pdb
+P:\SIO2\Slam\C#\c-sharp\ExtraireCodeFichier2\obj\Debug\netcoreapp3.1\ExtraireCodeFichier2.csproj.AssemblyReference.cache
+P:\SIO2\Slam\C#\c-sharp\ExtraireCodeFichier2\obj\Debug\netcoreapp3.1\ExtraireCodeFichier2.GeneratedMSBuildEditorConfig.editorconfig
+P:\SIO2\Slam\C#\c-sharp\ExtraireCodeFichier2\obj\Debug\netcoreapp3.1\ExtraireCodeFichier2.AssemblyInfoInputs.cache
+P:\SIO2\Slam\C#\c-sharp\ExtraireCodeFichier2\obj\Debug\netcoreapp3.1\ExtraireCodeFichier2.AssemblyInfo.cs
+P:\SIO2\Slam\C#\c-sharp\ExtraireCodeFichier2\obj\Debug\netcoreapp3.1\ExtraireCodeFichier2.csproj.CoreCompileInputs.cache
+P:\SIO2\Slam\C#\c-sharp\ExtraireCodeFichier2\obj\Debug\netcoreapp3.1\ExtraireCodeFichier2.dll
+P:\SIO2\Slam\C#\c-sharp\ExtraireCodeFichier2\obj\Debug\netcoreapp3.1\ExtraireCodeFichier2.pdb
+P:\SIO2\Slam\C#\c-sharp\ExtraireCodeFichier2\obj\Debug\netcoreapp3.1\ExtraireCodeFichier2.genruntimeconfig.cache
