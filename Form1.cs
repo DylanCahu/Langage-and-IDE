@@ -16,8 +16,8 @@ namespace CodeFicherGraphique
     public partial class Form1 : Form
     {
 
-        public string pathFolder =  Directory.GetCurrentDirectory();
-        public string pathFile =  Directory.GetCurrentDirectory()+ "\\file.temp";
+        public string pathFolder = Directory.GetCurrentDirectory();
+        public string pathFile = Directory.GetCurrentDirectory() + "\\file.temp";
         public Form1()
         {
             InitializeComponent();
@@ -38,8 +38,8 @@ namespace CodeFicherGraphique
         {//open
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
             {
-                    textBox1.Text = "Open : " + openFileDialog1.FileName;
-                    richTextBox1.LoadFile(openFileDialog1.FileName, RichTextBoxStreamType.PlainText);
+                textBox1.Text = "Open : " + openFileDialog1.FileName;
+                richTextBox1.LoadFile(openFileDialog1.FileName, RichTextBoxStreamType.PlainText);
             }
         }
 
@@ -55,7 +55,7 @@ namespace CodeFicherGraphique
 
             if (saveFileDialog1.ShowDialog() == DialogResult.OK)
             {
-                textBox1.Text ="Save : " + saveFileDialog1.FileName;
+                textBox1.Text = "Save : " + saveFileDialog1.FileName;
                 richTextBox1.SaveFile(saveFileDialog1.FileName, RichTextBoxStreamType.PlainText);
             }
 
@@ -64,7 +64,7 @@ namespace CodeFicherGraphique
         private void button3_Click(object sender, EventArgs e)
         { //Run
 
-                textBox1.Text = "Run : Code ";
+            textBox1.Text = "Run : Code ";
 
             // Create the file, or overwrite if the file exists.
             using (FileStream fs = File.Create(pathFile, 1024))
@@ -74,26 +74,41 @@ namespace CodeFicherGraphique
                 fs.Write(info, 0, info.Length);
             }
 
-                //Vide la console actuel
-                richTextBox3.Text = " ";
+            //Vide la console actuel
+            richTextBox3.Text = " ";
 
-                Parser.Compiler(pathFile);
-                // Parser.Compiler(openFileDialog1.FileName);
-                // Parser.leProgramme.afficher();
-                 Parser.leProgramme.executer();
-            
+            Parser.Compiler(pathFile);
+            // Parser.Compiler(openFileDialog1.FileName);
+            // Parser.leProgramme.afficher();
+            Parser.leProgramme.executer();
+
 
         }
-        private bool help = false;
+        private bool checkConnection()
+        {
+            //return ping google.com
+            System.Net.NetworkInformation.Ping ping = new System.Net.NetworkInformation.Ping();
+            try
+            {
+                System.Net.NetworkInformation.PingReply reply = ping.Send("google.com");
+            }
+            catch (Exception e)
+            {
+                return false;
+            }
+            return true;
+        }
         private void button4_Click(object sender, EventArgs e)
         {//help
-            if (help == false)
+
+            if (checkConnection())
             {
-                richTextBox3.LoadFile(Directory.GetCurrentDirectory() + "\\..\\help.txt", RichTextBoxStreamType.PlainText);
+                System.Diagnostics.Process.Start("C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe", "https://www.youtube.com/watch?v=dQw4w9WgXcQ");
+                
             }
             else
             {
-                
+                richTextBox3.LoadFile(Directory.GetCurrentDirectory() + "\\..\\help.txt", RichTextBoxStreamType.PlainText);
             }
 
         }

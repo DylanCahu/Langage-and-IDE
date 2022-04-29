@@ -19,3 +19,14 @@ P:\SIO2\Slam\C#\c-sharp\Langage and IDE\obj\Debug\CodeFicherGraphique.csproj.Gen
 P:\SIO2\Slam\C#\c-sharp\Langage and IDE\obj\Debug\CodeFicherGraphique.csproj.CoreCompileInputs.cache
 P:\SIO2\Slam\C#\c-sharp\Langage and IDE\obj\Debug\CodeFicherGraphique.exe
 P:\SIO2\Slam\C#\c-sharp\Langage and IDE\obj\Debug\CodeFicherGraphique.pdb
+C:\Users\cahudyl.NDLP\Documents\ide\obj\Debug\CodeFicherGraphique.csproj.AssemblyReference.cache
+C:\Users\cahudyl.NDLP\Documents\ide\obj\Debug\CodeFicherGraphique.csproj.SuggestedBindingRedirects.cache
+C:\Users\cahudyl.NDLP\Documents\ide\obj\Debug\CodeFicherGraphique.Form1.resources
+C:\Users\cahudyl.NDLP\Documents\ide\obj\Debug\CodeFicherGraphique.Properties.Resources.resources
+C:\Users\cahudyl.NDLP\Documents\ide\obj\Debug\CodeFicherGraphique.csproj.GenerateResource.cache
+C:\Users\cahudyl.NDLP\Documents\ide\obj\Debug\CodeFicherGraphique.csproj.CoreCompileInputs.cache
+C:\Users\cahudyl.NDLP\Documents\ide\obj\Debug\CodeFicherGraphique.exe
+C:\Users\cahudyl.NDLP\Documents\ide\obj\Debug\CodeFicherGraphique.pdb
+C:\Users\cahudyl.NDLP\Documents\ide\bin\Debug\CodeFicherGraphique.exe.config
+C:\Users\cahudyl.NDLP\Documents\ide\bin\Debug\CodeFicherGraphique.exe
+C:\Users\cahudyl.NDLP\Documents\ide\bin\Debug\CodeFicherGraphique.pdb
