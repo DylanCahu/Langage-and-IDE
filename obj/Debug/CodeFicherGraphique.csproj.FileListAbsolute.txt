@@ -1,0 +1,43 @@
+P:\SIO2\Slam\C#\c-sharp\CodeFicherGraphique\bin\Debug\CodeFicherGraphique.exe.config
+P:\SIO2\Slam\C#\c-sharp\CodeFicherGraphique\bin\Debug\CodeFicherGraphique.exe
+P:\SIO2\Slam\C#\c-sharp\CodeFicherGraphique\bin\Debug\CodeFicherGraphique.pdb
+P:\SIO2\Slam\C#\c-sharp\CodeFicherGraphique\obj\Debug\CodeFicherGraphique.csproj.AssemblyReference.cache
+P:\SIO2\Slam\C#\c-sharp\CodeFicherGraphique\obj\Debug\CodeFicherGraphique.Form1.resources
+P:\SIO2\Slam\C#\c-sharp\CodeFicherGraphique\obj\Debug\CodeFicherGraphique.Properties.Resources.resources
+P:\SIO2\Slam\C#\c-sharp\CodeFicherGraphique\obj\Debug\CodeFicherGraphique.csproj.GenerateResource.cache
+P:\SIO2\Slam\C#\c-sharp\CodeFicherGraphique\obj\Debug\CodeFicherGraphique.csproj.CoreCompileInputs.cache
+P:\SIO2\Slam\C#\c-sharp\CodeFicherGraphique\obj\Debug\CodeFicherGraphique.exe
+P:\SIO2\Slam\C#\c-sharp\CodeFicherGraphique\obj\Debug\CodeFicherGraphique.pdb
+P:\SIO2\Slam\C#\c-sharp\Langage and IDE\bin\Debug\CodeFicherGraphique.exe.config
+P:\SIO2\Slam\C#\c-sharp\Langage and IDE\bin\Debug\CodeFicherGraphique.exe
+P:\SIO2\Slam\C#\c-sharp\Langage and IDE\bin\Debug\CodeFicherGraphique.pdb
+P:\SIO2\Slam\C#\c-sharp\Langage and IDE\obj\Debug\CodeFicherGraphique.csproj.AssemblyReference.cache
+P:\SIO2\Slam\C#\c-sharp\Langage and IDE\obj\Debug\CodeFicherGraphique.csproj.SuggestedBindingRedirects.cache
+P:\SIO2\Slam\C#\c-sharp\Langage and IDE\obj\Debug\CodeFicherGraphique.Form1.resources
+P:\SIO2\Slam\C#\c-sharp\Langage and IDE\obj\Debug\CodeFicherGraphique.Properties.Resources.resources
+P:\SIO2\Slam\C#\c-sharp\Langage and IDE\obj\Debug\CodeFicherGraphique.csproj.GenerateResource.cache
+P:\SIO2\Slam\C#\c-sharp\Langage and IDE\obj\Debug\CodeFicherGraphique.csproj.CoreCompileInputs.cache
+P:\SIO2\Slam\C#\c-sharp\Langage and IDE\obj\Debug\CodeFicherGraphique.exe
+P:\SIO2\Slam\C#\c-sharp\Langage and IDE\obj\Debug\CodeFicherGraphique.pdb
+C:\Users\cahudyl.NDLP\Documents\ide\obj\Debug\CodeFicherGraphique.csproj.AssemblyReference.cache
+C:\Users\cahudyl.NDLP\Documents\ide\obj\Debug\CodeFicherGraphique.csproj.SuggestedBindingRedirects.cache
+C:\Users\cahudyl.NDLP\Documents\ide\obj\Debug\CodeFicherGraphique.Form1.resources
+C:\Users\cahudyl.NDLP\Documents\ide\obj\Debug\CodeFicherGraphique.Properties.Resources.resources
+C:\Users\cahudyl.NDLP\Documents\ide\obj\Debug\CodeFicherGraphique.csproj.GenerateResource.cache
+C:\Users\cahudyl.NDLP\Documents\ide\obj\Debug\CodeFicherGraphique.csproj.CoreCompileInputs.cache
+C:\Users\cahudyl.NDLP\Documents\ide\obj\Debug\CodeFicherGraphique.exe
+C:\Users\cahudyl.NDLP\Documents\ide\obj\Debug\CodeFicherGraphique.pdb
+C:\Users\cahudyl.NDLP\Documents\ide\bin\Debug\CodeFicherGraphique.exe.config
+C:\Users\cahudyl.NDLP\Documents\ide\bin\Debug\CodeFicherGraphique.exe
+C:\Users\cahudyl.NDLP\Documents\ide\bin\Debug\CodeFicherGraphique.pdb
+C:\Users\dydyp\Documents\Langage-and-IDE\bin\Debug\CodeFicherGraphique.exe.config
+C:\Users\dydyp\Documents\Langage-and-IDE\bin\Debug\CodeFicherGraphique.exe
+C:\Users\dydyp\Documents\Langage-and-IDE\bin\Debug\CodeFicherGraphique.pdb
+C:\Users\dydyp\Documents\Langage-and-IDE\obj\Debug\CodeFicherGraphique.csproj.AssemblyReference.cache
+C:\Users\dydyp\Documents\Langage-and-IDE\obj\Debug\CodeFicherGraphique.csproj.SuggestedBindingRedirects.cache
+C:\Users\dydyp\Documents\Langage-and-IDE\obj\Debug\CodeFicherGraphique.Form1.resources
+C:\Users\dydyp\Documents\Langage-and-IDE\obj\Debug\CodeFicherGraphique.Properties.Resources.resources
+C:\Users\dydyp\Documents\Langage-and-IDE\obj\Debug\CodeFicherGraphique.csproj.GenerateResource.cache
+C:\Users\dydyp\Documents\Langage-and-IDE\obj\Debug\CodeFicherGraphique.csproj.CoreCompileInputs.cache
+C:\Users\dydyp\Documents\Langage-and-IDE\obj\Debug\CodeFicherGraphique.exe
+C:\Users\dydyp\Documents\Langage-and-IDE\obj\Debug\CodeFicherGraphique.pdb

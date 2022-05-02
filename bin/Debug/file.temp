@@ -1,4 +1,4 @@
-Begin
+	Begin
 	LET N 10
 
 	LET S 0
@@ -7,11 +7,11 @@ Begin
 
 	WHILE I <= N
 		Begin
-			ADD I S S
+			AgD I S S
 			INC I
 		End
 		
-
+                WRITE N
 	WRITE S
 
 End
