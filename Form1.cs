@@ -98,13 +98,22 @@ namespace CodeFicherGraphique
             }
             return true;
         }
+
         private void button4_Click(object sender, EventArgs e)
         {//help
 
             if (checkConnection())
             {
-                System.Diagnostics.Process.Start("C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe", "https://www.youtube.com/watch?v=dQw4w9WgXcQ");
-                
+
+                try
+                {
+                    System.Diagnostics.Process.Start("https://dylancahu.github.io/Langage-and-IDE/");
+                }
+                catch (Exception e2)
+                {
+                    richTextBox3.LoadFile(Directory.GetCurrentDirectory() + "\\..\\help.txt", RichTextBoxStreamType.PlainText);
+
+                }
             }
             else
             {

@@ -30,3 +30,14 @@ C:\Users\cahudyl.NDLP\Documents\ide\obj\Debug\CodeFicherGraphique.pdb
 C:\Users\cahudyl.NDLP\Documents\ide\bin\Debug\CodeFicherGraphique.exe.config
 C:\Users\cahudyl.NDLP\Documents\ide\bin\Debug\CodeFicherGraphique.exe
 C:\Users\cahudyl.NDLP\Documents\ide\bin\Debug\CodeFicherGraphique.pdb
+C:\Users\dydyp\Documents\Langage-and-IDE\bin\Debug\CodeFicherGraphique.exe.config
+C:\Users\dydyp\Documents\Langage-and-IDE\bin\Debug\CodeFicherGraphique.exe
+C:\Users\dydyp\Documents\Langage-and-IDE\bin\Debug\CodeFicherGraphique.pdb
+C:\Users\dydyp\Documents\Langage-and-IDE\obj\Debug\CodeFicherGraphique.csproj.AssemblyReference.cache
+C:\Users\dydyp\Documents\Langage-and-IDE\obj\Debug\CodeFicherGraphique.csproj.SuggestedBindingRedirects.cache
+C:\Users\dydyp\Documents\Langage-and-IDE\obj\Debug\CodeFicherGraphique.Form1.resources
+C:\Users\dydyp\Documents\Langage-and-IDE\obj\Debug\CodeFicherGraphique.Properties.Resources.resources
+C:\Users\dydyp\Documents\Langage-and-IDE\obj\Debug\CodeFicherGraphique.csproj.GenerateResource.cache
+C:\Users\dydyp\Documents\Langage-and-IDE\obj\Debug\CodeFicherGraphique.csproj.CoreCompileInputs.cache
+C:\Users\dydyp\Documents\Langage-and-IDE\obj\Debug\CodeFicherGraphique.exe
+C:\Users\dydyp\Documents\Langage-and-IDE\obj\Debug\CodeFicherGraphique.pdb

@@ -7,7 +7,7 @@
 
 	WHILE I <= N
 		Begin
-			ADD I S S
+			AgD I S S
 			INC I
 		End
 		
